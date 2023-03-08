@@ -68,6 +68,7 @@ class _TabBarPageState extends State<TabBarPage>
               InicioBibsfihaPage(),
               InicioSalgadosPage(),
               InicioPratosPage(),
+              
             ],
           ),
         ],
