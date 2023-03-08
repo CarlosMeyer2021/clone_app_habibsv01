@@ -44,7 +44,7 @@ class InicioPratosPage extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Container(
+              SizedBox(
                 width: myWidth,
                 height: MediaQuery.of(context).size.height * 0.45,
                 child: Column(
@@ -178,7 +178,7 @@ class InicioPratosPage extends StatelessWidget {
               SizedBox(
                 width: 10,
               ),
-              Container(
+              SizedBox(
                 width: myWidth,
                 height: MediaQuery.of(context).size.height * 0.45,
                 child: Column(

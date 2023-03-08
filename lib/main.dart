@@ -1,8 +1,6 @@
 import 'package:clone_app_habibs/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 import 'pages/cupons/cupons_page.dart';
-import 'pages/home/acesso_habibers_page.dart';
-import 'pages/home/banners_page.dart';
 import 'pages/home/habibers_page.dart';
 import 'pages/perfil/perfil_page.dart';
 
@@ -48,7 +46,7 @@ class _MyAppState extends State<MyApp> {
               'CARLOS',
               style: TextStyle(
                   fontSize: 18,
-                  color: Color(0XFFFC71B04),
+                  color: Color(0xFFC71B04),
                   fontWeight: FontWeight.bold),
             ),
             actions: [
